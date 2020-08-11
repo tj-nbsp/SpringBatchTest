@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SpringBatchTest
+  main:
+    allow-bean-definition-overriding: true
